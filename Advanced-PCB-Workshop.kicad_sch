@@ -5194,7 +5194,7 @@
 		)
 		(uuid "4106491e-bb78-4671-88b1-6ae1317990a0")
 	)
-	(label "USBDM"
+	(label "USBDN"
 		(at 88.9 91.44 0)
 		(effects
 			(font
