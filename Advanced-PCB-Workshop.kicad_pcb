@@ -169,7 +169,7 @@
 	(net 50 "Net-(J1-CC2)")
 	(net 51 "Net-(J1-CC1)")
 	(net 52 "/USBDP")
-	(net 53 "/USBDM")
+	(net 53 "/USBDN")
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "031a2361-03c8-479d-93cf-6bd27b5a1940")
@@ -1705,7 +1705,7 @@
 			(at 0 -4.83 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "bb0116a8-3152-4520-a6c3-46ad3db22717")
+			(uuid "cba5301a-8ed5-4922-90e5-6c5ca397cad4")
 			(effects
 				(font
 					(size 1 1)
@@ -1716,7 +1716,7 @@
 		(property "Value" "RP2040"
 			(at -0.03 6.67 0)
 			(layer "F.Fab")
-			(uuid "b296b12d-544d-49dc-b337-4d7179c7abaa")
+			(uuid "088e6bb1-33d3-4347-b306-f8bfb5b15276")
 			(effects
 				(font
 					(size 1 1)
@@ -1728,7 +1728,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a2c2b3a2-6455-40e6-8e96-7986cf86900c")
+			(uuid "d9f41e1d-ecfe-4d29-9123-611202d38333")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1740,7 +1740,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "dc48e09e-f778-46d7-ad20-ebeb31064593")
+			(uuid "41af463f-7149-482b-85e6-c6a2b513cd84")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2551,7 +2551,7 @@
 			(size 0.2 0.875)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net 53 "/USBDM")
+			(net 53 "/USBDN")
 			(pinfunction "USB_DM")
 			(pintype "bidirectional")
 			(uuid "256c85da-6de8-44c6-bec6-c3f55c7a6868")
@@ -4965,7 +4965,7 @@
 			(at 0 -6.36 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "a661f42b-a02d-4db0-821f-686c0fccd10d")
+			(uuid "d7a96ec7-5bb8-4968-bfa9-204a3036d096")
 			(effects
 				(font
 					(size 1 1)
@@ -4976,7 +4976,7 @@
 		(property "Value" "USB_C_Receptacle_USB2.0_14P"
 			(at 0 6.14 0)
 			(layer "F.Fab")
-			(uuid "ed657ead-84a2-4227-9eb6-111ba0a8cdf3")
+			(uuid "3d0513c5-b1d4-4404-ae84-a39c87f17bd5")
 			(effects
 				(font
 					(size 1 1)
@@ -4989,7 +4989,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e2e572e2-d61e-4306-a21f-60d3380daf51")
+			(uuid "a4af90a1-948d-4f82-9526-6a90e00a6d4f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5002,7 +5002,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fa9a1d2c-723b-47b4-800b-b5d6d30e02c9")
+			(uuid "82f1fa1f-f1cb-4786-a6b5-109a4257e4f1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6278,7 +6278,7 @@
 		(property "Reference" "R7"
 			(at 0 -1.43 0)
 			(layer "F.SilkS")
-			(uuid "6fa0bd33-0d37-4e3d-9e49-25e6fcea198d")
+			(uuid "80b8ce26-479b-49ef-a015-93d9686b63f5")
 			(effects
 				(font
 					(size 1 1)
@@ -6289,7 +6289,7 @@
 		(property "Value" "27"
 			(at 0 1.43 0)
 			(layer "F.Fab")
-			(uuid "07d77da1-70c5-4b7d-bc27-56572e5947de")
+			(uuid "feb5570c-c6df-40d2-b40d-dbd27b1fd37e")
 			(effects
 				(font
 					(size 1 1)
@@ -6301,7 +6301,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d78674d5-81a0-45d7-9ae3-7dfde364ba0c")
+			(uuid "8c093520-6d93-4438-b724-e66c1d9a24c4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6313,7 +6313,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f6dc22ee-300c-47fb-8164-b766023acf16")
+			(uuid "542a1db6-4f74-4011-99ad-a72318a03fa8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6451,7 +6451,7 @@
 			(size 0.975 0.95)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net 53 "/USBDM")
+			(net 53 "/USBDN")
 			(pintype "passive")
 			(uuid "f35b8c08-f108-4120-bfa6-447e4b7eac19")
 		)
